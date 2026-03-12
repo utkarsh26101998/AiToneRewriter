@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D5</color>
+    <color name="primary_light">#8B85FF</color>
+    <color name="accent">#FF6584</color>
+
+    <color name="background_dark">#1A1A2E</color>
+    <color name="surface_dark">#16213E</color>
+    <color name="surface_accent">#0F3460</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C0</color>
+    <color name="text_hint">#6C6C80</color>
+
+    <color name="bubble_bg">#6C63FF</color>
+    <color name="popup_bg">#1E1E3A</color>
+    <color name="mood_button_bg">#2A2A4A</color>
+    <color name="mood_button_pressed">#3A3A5A</color>
+
+    <color name="status_granted">#4CAF50</color>
+    <color name="status_denied">#FF5252</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Tone Rewriter</string>
+    <string name="accessibility_service_description">AI Tone Rewriter reads and replaces text in messaging app input fields when you select a tone. No messages are stored.</string>
+    <string name="overlay_permission">Overlay Permission</string>
+    <string name="accessibility_permission">Accessibility Service</string>
+    <string name="grant_overlay">Grant Overlay Permission</string>
+    <string name="enable_accessibility">Enable Accessibility</string>
+    <string name="launch_widget">Launch Floating Widget</string>
+    <string name="stop_widget">Stop Widget</string>
+    <string name="select_mood">Select Tone</string>
+    <string name="close">Close</string>
+</resources>
