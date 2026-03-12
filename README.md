@@ -4,6 +4,8 @@ A floating Android assistant that rewrites your messages with the perfect tone �
 
 ![Android](https://img.shields.io/badge/Android-8.0%2B-green) ![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+> **Also available on iOS:** [AiToneRewriterIOS](https://github.com/utkarsh26101998/AiToneRewriterIOS) — Custom keyboard extension for iPhone/iPad
+
 ## Features
 
 - **Floating Chat Head** — Draggable bubble that works over any app (WhatsApp, Telegram, Instagram, SMS)
